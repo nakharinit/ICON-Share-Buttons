@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ICON Share Buttons
-Description: A plugin to display custom share buttons like in the provided image.
+Description: Minimal Social Sharing WordPress Plugin
 Version: 1.0
 Author: Nakharin
 Author URI: https://www.nakharin.in.th
