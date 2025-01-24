@@ -29,7 +29,7 @@
 ## ตัวอย่างหน้าจอ (Screenshots)
 
 **ตัวอย่างปุ่มแชร์**  
-   ![ตัวอย่างปุ่มแชร์](images/demo.png)
+   ![ตัวอย่างปุ่มแชร์](images/Screenshot.png)
 
 ## การเปลี่ยนแปลง (Changelog)
 
